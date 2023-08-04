@@ -1,0 +1,22 @@
+.roh{
+    background-color: rgba(146, 21, 21, 0.66);
+}
+
+#vis{
+    background-color: blue;
+    color: yellow;
+}
+
+div{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    color: rgb(154, 27, 82);
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
